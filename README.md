@@ -4,8 +4,7 @@ Neuromorphic perception for automotive edge AI — training spiking neural netwo
 
 Exploring spiking neural networks (SNNs) for low-power, automotive-grade object
 perception using event-camera data — motivated by neuromorphic engineering as an
-active research direction in automotive R&D (e.g. Mercedes-Benz Research &
-Development India's neuromorphic engineering track with IIT Delhi).
+active research direction in automotive R&D.
 
 This project evaluates whether spiking neural networks can serve as an
 energy-efficient alternative to conventional CNNs for automotive perception
